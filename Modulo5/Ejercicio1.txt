@@ -1,0 +1,5 @@
+# Crear variables para almacenar las dos distancias
+# ¡Asegúrate de quitar las comas!
+
+first_planet = 149597870
+second_planet = 778547200
